@@ -2,5 +2,5 @@
 
 # Example Charge credit card by omise-go
 
-#Usage
+# Usage
 ```go run main.go```
